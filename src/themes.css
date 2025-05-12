@@ -1,0 +1,16 @@
+
+.theme-default {
+  @apply bg-white text-gray-900 font-sans;
+}
+
+.theme-modern {
+  @apply bg-gray-900 text-white font-mono;
+}
+
+.theme-vintage {
+  @apply bg-yellow-50 text-brown-800 font-serif;
+}
+
+.input {
+  @apply w-full p-2 border rounded;
+}
